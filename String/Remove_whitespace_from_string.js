@@ -9,4 +9,5 @@
     }
     return result;
   }
-  removeWhitespaces(" Hello  , ")
+  removeWhitespaces(" Hello  World ") 
+//The function will return the string HelloWorld
